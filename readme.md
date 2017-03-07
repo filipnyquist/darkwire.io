@@ -1,4 +1,4 @@
-# Darkwire.io
+# DRKChat(Fork of Darkwire.io)
 
 [![Build Status](https://travis-ci.org/seripap/darkwire.io.svg?branch=master)](https://travis-ci.org/seripap/darkwire.io) [![GitHub release](https://img.shields.io/github/release/seripap/darkwire.io.svg)]()
 
